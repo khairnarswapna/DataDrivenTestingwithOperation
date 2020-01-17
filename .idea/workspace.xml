@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e818a4a6-f648-42c4-b955-9a8e0ae815fb" name="Default Changelist" comment="" />
+    <list default="true" id="e818a4a6-f648-42c4-b955-9a8e0ae815fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/webpage/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/webpage/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/script/faceBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/script/faceBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/FBTestFile1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/FBTestFile1.xlsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +33,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WQS013lT5tKiSh5OKjf5ZTxiDy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
@@ -177,7 +188,7 @@
       <workItem from="1579247139112" duration="2136000" />
       <workItem from="1579253224538" duration="1114000" />
       <workItem from="1579254881019" duration="6870000" />
-      <workItem from="1579263909527" duration="2197000" />
+      <workItem from="1579263909527" duration="4723000" />
     </task>
     <servers />
   </component>
@@ -189,30 +200,30 @@
       <screen x="57" y="27" width="1309" height="741" />
     </state>
     <state x="306" y="58" width="847" height="677" key="#Project_Structure/57.27.1309.741@57.27.1309.741" timestamp="1579082776808" />
-    <state x="444" y="154" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579253039091">
+    <state x="444" y="154" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579268376131">
       <screen x="57" y="27" width="1309" height="741" />
     </state>
-    <state x="444" y="154" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/57.27.1309.741@57.27.1309.741" timestamp="1579253039091" />
+    <state x="444" y="154" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/57.27.1309.741@57.27.1309.741" timestamp="1579268376131" />
     <state x="464" y="257" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579095087243">
       <screen x="57" y="27" width="1309" height="741" />
     </state>
     <state x="464" y="257" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/57.27.1309.741@57.27.1309.741" timestamp="1579095087243" />
-    <state width="1263" height="47" key="GridCell.Tab.0.bottom" timestamp="1579267308571">
+    <state width="1263" height="282" key="GridCell.Tab.0.bottom" timestamp="1579270110860">
       <screen x="57" y="27" width="1309" height="741" />
     </state>
-    <state width="1263" height="47" key="GridCell.Tab.0.bottom/57.27.1309.741@57.27.1309.741" timestamp="1579267308571" />
-    <state width="1263" height="47" key="GridCell.Tab.0.center" timestamp="1579267308571">
+    <state width="1263" height="282" key="GridCell.Tab.0.bottom/57.27.1309.741@57.27.1309.741" timestamp="1579270110860" />
+    <state width="1263" height="282" key="GridCell.Tab.0.center" timestamp="1579270110860">
       <screen x="57" y="27" width="1309" height="741" />
     </state>
-    <state width="1263" height="47" key="GridCell.Tab.0.center/57.27.1309.741@57.27.1309.741" timestamp="1579267308571" />
-    <state width="1263" height="47" key="GridCell.Tab.0.left" timestamp="1579267308571">
+    <state width="1263" height="282" key="GridCell.Tab.0.center/57.27.1309.741@57.27.1309.741" timestamp="1579270110860" />
+    <state width="1263" height="282" key="GridCell.Tab.0.left" timestamp="1579270110860">
       <screen x="57" y="27" width="1309" height="741" />
     </state>
-    <state width="1263" height="47" key="GridCell.Tab.0.left/57.27.1309.741@57.27.1309.741" timestamp="1579267308571" />
-    <state width="1263" height="47" key="GridCell.Tab.0.right" timestamp="1579267308571">
+    <state width="1263" height="282" key="GridCell.Tab.0.left/57.27.1309.741@57.27.1309.741" timestamp="1579270110860" />
+    <state width="1263" height="282" key="GridCell.Tab.0.right" timestamp="1579270110860">
       <screen x="57" y="27" width="1309" height="741" />
     </state>
-    <state width="1263" height="47" key="GridCell.Tab.0.right/57.27.1309.741@57.27.1309.741" timestamp="1579267308571" />
+    <state width="1263" height="282" key="GridCell.Tab.0.right/57.27.1309.741@57.27.1309.741" timestamp="1579270110860" />
     <state x="367" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1579254954445">
       <screen x="57" y="27" width="1309" height="741" />
     </state>

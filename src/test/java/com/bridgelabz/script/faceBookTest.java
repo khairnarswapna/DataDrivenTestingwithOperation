@@ -99,6 +99,12 @@ public class faceBookTest extends BaseTest {
         homePage.postBottom();
         Thread.sleep(2000);
 
+        homePage.getSettingTab();
+        Thread.sleep(2000);
+
+        homePage.Logout();
+        Thread.sleep(2000);
+
 
 
 
