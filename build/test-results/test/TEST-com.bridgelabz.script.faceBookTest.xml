@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.script.faceBookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-17T13:21:59" hostname="admin1-desktop" time="71.876">
+  <properties/>
+  <testcase name="UserLogin[0](khairnarswapna93@gmail.com, sweetpinu@93)" classname="com.bridgelabz.script.faceBookTest" time="71.876"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 20455
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Jan 17, 2020 6:51:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

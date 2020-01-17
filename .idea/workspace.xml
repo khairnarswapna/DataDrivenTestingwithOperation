@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e818a4a6-f648-42c4-b955-9a8e0ae815fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQS013lT5tKiSh5OKjf5ZTxiDy" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bridegelabz.pompage" />
+      <recent name="com.bridgelabz.base" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.faceBookTest">
+    <configuration name="faceBookTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.script.faceBookTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="faceBookTest.DemoProject" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.script.faceBookTest.DemoProject&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="faceBookTest.UserLogin" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.script.faceBookTest.UserLogin&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="faceBookTest.demoProject" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.script.faceBookTest.demoProject&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.faceBookTest" />
+        <item itemvalue="Gradle.faceBookTest.UserLogin" />
+        <item itemvalue="Gradle.faceBookTest.demoProject" />
+        <item itemvalue="Gradle.faceBookTest.DemoProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e818a4a6-f648-42c4-b955-9a8e0ae815fb" name="Default Changelist" comment="" />
+      <created>1579080098559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579080098559</updated>
+      <workItem from="1579080107421" duration="628000" />
+      <workItem from="1579081330986" duration="2873000" />
+      <workItem from="1579085034794" duration="4282000" />
+      <workItem from="1579152171474" duration="1295000" />
+      <workItem from="1579163684276" duration="5414000" />
+      <workItem from="1579171296531" duration="7727000" />
+      <workItem from="1579237222254" duration="3162000" />
+      <workItem from="1579240415863" duration="4643000" />
+      <workItem from="1579247139112" duration="2136000" />
+      <workItem from="1579253224538" duration="1114000" />
+      <workItem from="1579254881019" duration="6870000" />
+      <workItem from="1579263909527" duration="2197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="58" width="847" height="677" key="#Project_Structure" timestamp="1579082776808">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="306" y="58" width="847" height="677" key="#Project_Structure/57.27.1309.741@57.27.1309.741" timestamp="1579082776808" />
+    <state x="444" y="154" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579253039091">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="444" y="154" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/57.27.1309.741@57.27.1309.741" timestamp="1579253039091" />
+    <state x="464" y="257" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579095087243">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="464" y="257" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/57.27.1309.741@57.27.1309.741" timestamp="1579095087243" />
+    <state width="1263" height="47" key="GridCell.Tab.0.bottom" timestamp="1579267308571">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="47" key="GridCell.Tab.0.bottom/57.27.1309.741@57.27.1309.741" timestamp="1579267308571" />
+    <state width="1263" height="47" key="GridCell.Tab.0.center" timestamp="1579267308571">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="47" key="GridCell.Tab.0.center/57.27.1309.741@57.27.1309.741" timestamp="1579267308571" />
+    <state width="1263" height="47" key="GridCell.Tab.0.left" timestamp="1579267308571">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="47" key="GridCell.Tab.0.left/57.27.1309.741@57.27.1309.741" timestamp="1579267308571" />
+    <state width="1263" height="47" key="GridCell.Tab.0.right" timestamp="1579267308571">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="47" key="GridCell.Tab.0.right/57.27.1309.741@57.27.1309.741" timestamp="1579267308571" />
+    <state x="367" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1579254954445">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="367" y="224" key="com.intellij.ide.util.TipDialog/57.27.1309.741@57.27.1309.741" timestamp="1579254954445" />
+    <state x="375" y="175" key="run.anything.popup" timestamp="1579253034476">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="375" y="175" key="run.anything.popup/57.27.1309.741@57.27.1309.741" timestamp="1579253034476" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/bridgelabz/script/faceBookTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
